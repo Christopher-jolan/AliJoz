@@ -1,16 +1,12 @@
-### Hi there 👋
 
-<!--
-**AliJoz/AliJoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const response = {
+  status: 202,
+  data: {
+    fullName: "Alireza jozdani",
+    birthDay: "2001 october 1, Monday",
+    university: "Computer Engineering ",
+    hobbies: ["music", "book", "movie", "gym", "podcast"],
+    languages: [".JS", ".C#", ".PY", ".CPP","PHP"],
+    quote:"Everything starts with (Hello World!)".."
+  },
+};
