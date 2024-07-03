@@ -2,13 +2,12 @@
 علیرضا م دنیا رو کد کدی میینم  🎉
 
 ## مهارت‌ها و فناوری‌ها
-
 ### زبان‌ها:
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 
-- ![C#](https://img.shields.io/badge/-C%23-68217A?style=flat-square&logo=c-sharp&logoColor=white)
+- ![C#](https://img.shields.io/badge/-C%23-68217A?style=flat-square&logo=c-sharp&logoColor=purple)
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) 
 
 ### فریم‌ورک‌ها و کتابخانه‌ها:
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) 
@@ -26,8 +25,6 @@
 
 ### پایگاه داده‌ها:
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  
-
 
 ## علاقه‌مندی‌ها
 
