@@ -4,13 +4,17 @@
 ## مهارت‌ها و فناوری‌ها
 
 - زبان‌ها: 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) 
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
   ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 - فریم‌ورک‌ها و کتابخانه‌ها: 
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+  ![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?style=flat&logo=livewire&logoColor=white)
+  ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
+- ابزارهای استایل‌دهی: 
 - ابزارهای استایل‌دهی: 
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) 
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
