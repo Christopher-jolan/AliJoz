@@ -57,6 +57,9 @@
 
 ## GitHub Stats
 
+| Stats | Top Languages |
+|-------|---------------|
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alijoz&show_icons=true&theme=dark&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alijoz&layout=compact&theme=dark)
