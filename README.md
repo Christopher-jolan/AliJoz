@@ -52,3 +52,8 @@
 
 ## گیتم رو چک کن!
 پروژه‌ها و نمونه‌کارهای من رو در GitHub می‌تونید ببینید. به زودی پروژه‌های نود جی‌اس بیشتری قرار می‌دم. [GitHub من](https://github.com/Alirezajoz)
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alirezajozdani&show_icons=true&theme=dark&count_private=true)
+
