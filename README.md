@@ -60,7 +60,8 @@
 | Stats | Top Languages |
 |-------|---------------|
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alijoz&show_icons=true&theme=dark&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Alijoz&theme=dark&date_format=M%20j&ring=FF9D00&fire=FF9D00&currStreakLabel=FF9D00)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alijoz&layout=compact&theme=dark)
 
